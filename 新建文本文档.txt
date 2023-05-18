@@ -1,0 +1,13 @@
+说明：代码中的一部分提取特征，一部分用于不平衡分类。获取的特征可以自行进行加权操作
+数据：植物电数据集已给出。UCR数据集可在官网下载。可自行制作数据集的不平衡率。
+参考：密度权重：https://github.com/SteiMi/denseweight
+SSLM：https://github.com/HiroIshida/sslm
+
+
+
+Note: Part of the code extracts features and part is used for unbalanced classification. The obtained features can be weighted by themselves
+Data: The plant electricity dataset is given. the UCR dataset can be downloaded from the official website. You can make your own imbalance rate for the dataset.
+Reference: density weights: https://github.com/SteiMi/denseweight
+SSLM: https://github.com/HiroIshida/sslm
+
+Translated with www.DeepL.com/Translator (free version)
